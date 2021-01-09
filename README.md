@@ -1,7 +1,7 @@
 >
 > [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 >
-> # 🔑 Welcome to the project of Arduino based RFID board!
+> # 🔑 Welcome to the project of Arduino RFID board!
 >
 > Thank you for your interest about this project!
 >
